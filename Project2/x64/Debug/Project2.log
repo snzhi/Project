@@ -1,0 +1,59 @@
+﻿源.obj : error LNK2019: 无法解析的外部符号 __imp_MV3D_RGBD_GetSDKVersion，函数 "void __cdecl HIK_initialization(void)" (?HIK_initialization@@YAXXZ) 中引用了该符号
+源.obj : error LNK2019: 无法解析的外部符号 __imp_MV3D_RGBD_Initialize，函数 "void __cdecl HIK_initialization(void)" (?HIK_initialization@@YAXXZ) 中引用了该符号
+源.obj : error LNK2019: 无法解析的外部符号 __imp_MV3D_RGBD_Release，函数 "void __cdecl HIK_stop(void)" (?HIK_stop@@YAXXZ) 中引用了该符号
+源.obj : error LNK2019: 无法解析的外部符号 __imp_MV3D_RGBD_GetDeviceNumber，函数 "void __cdecl HIK_initialization(void)" (?HIK_initialization@@YAXXZ) 中引用了该符号
+源.obj : error LNK2019: 无法解析的外部符号 __imp_MV3D_RGBD_GetDeviceList，函数 "void __cdecl HIK_initialization(void)" (?HIK_initialization@@YAXXZ) 中引用了该符号
+源.obj : error LNK2019: 无法解析的外部符号 __imp_MV3D_RGBD_OpenDevice，函数 "void __cdecl HIK_initialization(void)" (?HIK_initialization@@YAXXZ) 中引用了该符号
+源.obj : error LNK2019: 无法解析的外部符号 __imp_MV3D_RGBD_CloseDevice，函数 "void __cdecl HIK_stop(void)" (?HIK_stop@@YAXXZ) 中引用了该符号
+源.obj : error LNK2019: 无法解析的外部符号 __imp_MV3D_RGBD_Start，函数 "void __cdecl HIK_initialization(void)" (?HIK_initialization@@YAXXZ) 中引用了该符号
+源.obj : error LNK2019: 无法解析的外部符号 __imp_MV3D_RGBD_Stop，函数 "void __cdecl HIK_stop(void)" (?HIK_stop@@YAXXZ) 中引用了该符号
+源.obj : error LNK2019: 无法解析的外部符号 __imp_MV3D_RGBD_FetchFrame，函数 main 中引用了该符号
+源.obj : error LNK2019: 无法解析的外部符号 __imp_glBegin，函数 "public: void __cdecl RenderImage::RenderImgWnd::RenderPointCloud(struct RenderImage::RIFrameInfo const &)" (?RenderPointCloud@RenderImgWnd@RenderImage@@QEAAXAEBURIFrameInfo@2@@Z) 中引用了该符号
+源.obj : error LNK2019: 无法解析的外部符号 __imp_glBindTexture，函数 "public: void __cdecl RenderImage::RenderTexture::show(struct RenderImage::rect const &,float)const " (?show@RenderTexture@RenderImage@@QEBAXAEBUrect@2@M@Z) 中引用了该符号
+源.obj : error LNK2019: 无法解析的外部符号 __imp_glClear，函数 "public: __cdecl RenderImage::RenderImgWnd::operator bool(void)" (??BRenderImgWnd@RenderImage@@QEAA_NXZ) 中引用了该符号
+源.obj : error LNK2019: 无法解析的外部符号 __imp_glClearColor，函数 "public: void __cdecl RenderImage::RenderImgWnd::RenderPointCloud(struct RenderImage::RIFrameInfo const &)" (?RenderPointCloud@RenderImgWnd@RenderImage@@QEAAXAEBURIFrameInfo@2@@Z) 中引用了该符号
+源.obj : error LNK2019: 无法解析的外部符号 __imp_glColor3f，函数 "public: void __cdecl RenderImage::RenderImgWnd::RenderPointCloud(struct RenderImage::RIFrameInfo const &)" (?RenderPointCloud@RenderImgWnd@RenderImage@@QEAAXAEBURIFrameInfo@2@@Z) 中引用了该符号
+源.obj : error LNK2019: 无法解析的外部符号 __imp_glColor4f，函数 "public: void __cdecl RenderImage::RenderTexture::show(struct RenderImage::rect const &,float)const " (?show@RenderTexture@RenderImage@@QEBAXAEBUrect@2@M@Z) 中引用了该符号
+源.obj : error LNK2019: 无法解析的外部符号 __imp_glDisable，函数 "public: void __cdecl RenderImage::RenderTexture::show(struct RenderImage::rect const &,float)const " (?show@RenderTexture@RenderImage@@QEBAXAEBUrect@2@M@Z) 中引用了该符号
+源.obj : error LNK2019: 无法解析的外部符号 __imp_glEnable，函数 "public: void __cdecl RenderImage::RenderImgWnd::RenderPointCloud(struct RenderImage::RIFrameInfo const &)" (?RenderPointCloud@RenderImgWnd@RenderImage@@QEAAXAEBURIFrameInfo@2@@Z) 中引用了该符号
+源.obj : error LNK2019: 无法解析的外部符号 __imp_glEnd，函数 "public: void __cdecl RenderImage::RenderImgWnd::RenderPointCloud(struct RenderImage::RIFrameInfo const &)" (?RenderPointCloud@RenderImgWnd@RenderImage@@QEAAXAEBURIFrameInfo@2@@Z) 中引用了该符号
+源.obj : error LNK2019: 无法解析的外部符号 __imp_glGenTextures，函数 "public: void __cdecl RenderImage::RenderTexture::upload(struct RenderImage::RIFrameInfo const &,enum RenderImage::ColorTableType)" (?upload@RenderTexture@RenderImage@@QEAAXAEBURIFrameInfo@2@W4ColorTableType@2@@Z) 中引用了该符号
+源.obj : error LNK2019: 无法解析的外部符号 __imp_glGetError，函数 "public: void __cdecl RenderImage::RenderTexture::upload(struct RenderImage::RIFrameInfo const &,enum RenderImage::ColorTableType)" (?upload@RenderTexture@RenderImage@@QEAAXAEBURIFrameInfo@2@W4ColorTableType@2@@Z) 中引用了该符号
+源.obj : error LNK2019: 无法解析的外部符号 __imp_glLoadIdentity，函数 "public: void __cdecl RenderImage::RenderImgWnd::RenderPointCloud(struct RenderImage::RIFrameInfo const &)" (?RenderPointCloud@RenderImgWnd@RenderImage@@QEAAXAEBURIFrameInfo@2@@Z) 中引用了该符号
+源.obj : error LNK2019: 无法解析的外部符号 __imp_glMatrixMode，函数 "public: void __cdecl RenderImage::RenderImgWnd::RenderPointCloud(struct RenderImage::RIFrameInfo const &)" (?RenderPointCloud@RenderImgWnd@RenderImage@@QEAAXAEBURIFrameInfo@2@@Z) 中引用了该符号
+源.obj : error LNK2019: 无法解析的外部符号 __imp_glOrtho，函数 "public: __cdecl RenderImage::RenderImgWnd::operator bool(void)" (??BRenderImgWnd@RenderImage@@QEAA_NXZ) 中引用了该符号
+源.obj : error LNK2019: 无法解析的外部符号 __imp_glPixelStorei，函数 "public: void __cdecl RenderImage::RenderTexture::upload(struct RenderImage::RIFrameInfo const &,enum RenderImage::ColorTableType)" (?upload@RenderTexture@RenderImage@@QEAAXAEBURIFrameInfo@2@W4ColorTableType@2@@Z) 中引用了该符号
+源.obj : error LNK2019: 无法解析的外部符号 __imp_glPointSize，函数 "public: void __cdecl RenderImage::RenderImgWnd::RenderPointCloud(struct RenderImage::RIFrameInfo const &)" (?RenderPointCloud@RenderImgWnd@RenderImage@@QEAAXAEBURIFrameInfo@2@@Z) 中引用了该符号
+源.obj : error LNK2019: 无法解析的外部符号 __imp_glPopAttrib，函数 "public: void __cdecl RenderImage::RenderImgWnd::RenderPointCloud(struct RenderImage::RIFrameInfo const &)" (?RenderPointCloud@RenderImgWnd@RenderImage@@QEAAXAEBURIFrameInfo@2@@Z) 中引用了该符号
+源.obj : error LNK2019: 无法解析的外部符号 __imp_glPopMatrix，函数 "public: __cdecl RenderImage::RenderImgWnd::operator bool(void)" (??BRenderImgWnd@RenderImage@@QEAA_NXZ) 中引用了该符号
+源.obj : error LNK2019: 无法解析的外部符号 __imp_glPushAttrib，函数 "public: void __cdecl RenderImage::RenderImgWnd::RenderPointCloud(struct RenderImage::RIFrameInfo const &)" (?RenderPointCloud@RenderImgWnd@RenderImage@@QEAAXAEBURIFrameInfo@2@@Z) 中引用了该符号
+源.obj : error LNK2019: 无法解析的外部符号 __imp_glPushMatrix，函数 "public: __cdecl RenderImage::RenderImgWnd::operator bool(void)" (??BRenderImgWnd@RenderImage@@QEAA_NXZ) 中引用了该符号
+源.obj : error LNK2019: 无法解析的外部符号 __imp_glRotated，函数 "public: void __cdecl RenderImage::RenderImgWnd::RenderPointCloud(struct RenderImage::RIFrameInfo const &)" (?RenderPointCloud@RenderImgWnd@RenderImage@@QEAAXAEBURIFrameInfo@2@@Z) 中引用了该符号
+源.obj : error LNK2019: 无法解析的外部符号 __imp_glTexCoord2f，函数 "public: void __cdecl RenderImage::RenderTexture::show(struct RenderImage::rect const &,float)const " (?show@RenderTexture@RenderImage@@QEBAXAEBUrect@2@M@Z) 中引用了该符号
+源.obj : error LNK2019: 无法解析的外部符号 __imp_glTexImage2D，函数 "public: void __cdecl RenderImage::RenderTexture::upload(struct RenderImage::RIFrameInfo const &,enum RenderImage::ColorTableType)" (?upload@RenderTexture@RenderImage@@QEAAXAEBURIFrameInfo@2@W4ColorTableType@2@@Z) 中引用了该符号
+源.obj : error LNK2019: 无法解析的外部符号 __imp_glTexParameterfv，函数 "public: void __cdecl RenderImage::RenderImgWnd::RenderPointCloud(struct RenderImage::RIFrameInfo const &)" (?RenderPointCloud@RenderImgWnd@RenderImage@@QEAAXAEBURIFrameInfo@2@@Z) 中引用了该符号
+源.obj : error LNK2019: 无法解析的外部符号 __imp_glTexParameteri，函数 "public: void __cdecl RenderImage::RenderImgWnd::RenderPointCloud(struct RenderImage::RIFrameInfo const &)" (?RenderPointCloud@RenderImgWnd@RenderImage@@QEAAXAEBURIFrameInfo@2@@Z) 中引用了该符号
+源.obj : error LNK2019: 无法解析的外部符号 __imp_glTranslatef，函数 "public: void __cdecl RenderImage::RenderImgWnd::RenderPointCloud(struct RenderImage::RIFrameInfo const &)" (?RenderPointCloud@RenderImgWnd@RenderImage@@QEAAXAEBURIFrameInfo@2@@Z) 中引用了该符号
+源.obj : error LNK2019: 无法解析的外部符号 __imp_glVertex2f，函数 "public: void __cdecl RenderImage::RenderTexture::show(struct RenderImage::rect const &,float)const " (?show@RenderTexture@RenderImage@@QEBAXAEBUrect@2@M@Z) 中引用了该符号
+源.obj : error LNK2019: 无法解析的外部符号 __imp_glVertex3fv，函数 "public: void __cdecl RenderImage::RenderImgWnd::RenderPointCloud(struct RenderImage::RIFrameInfo const &)" (?RenderPointCloud@RenderImgWnd@RenderImage@@QEAAXAEBURIFrameInfo@2@@Z) 中引用了该符号
+源.obj : error LNK2019: 无法解析的外部符号 __imp_glViewport，函数 "public: __cdecl RenderImage::RenderImgWnd::operator bool(void)" (??BRenderImgWnd@RenderImage@@QEAA_NXZ) 中引用了该符号
+源.obj : error LNK2019: 无法解析的外部符号 gluPerspective，函数 "public: void __cdecl RenderImage::RenderImgWnd::RenderPointCloud(struct RenderImage::RIFrameInfo const &)" (?RenderPointCloud@RenderImgWnd@RenderImage@@QEAAXAEBURIFrameInfo@2@@Z) 中引用了该符号
+源.obj : error LNK2019: 无法解析的外部符号 gluLookAt，函数 "public: void __cdecl RenderImage::RenderImgWnd::RenderPointCloud(struct RenderImage::RIFrameInfo const &)" (?RenderPointCloud@RenderImgWnd@RenderImage@@QEAAXAEBURIFrameInfo@2@@Z) 中引用了该符号
+源.obj : error LNK2019: 无法解析的外部符号 glfwInit，函数 "public: __cdecl RenderImage::RenderImgWnd::RenderImgWnd(int,int,char const *)" (??0RenderImgWnd@RenderImage@@QEAA@HHPEBD@Z) 中引用了该符号
+源.obj : error LNK2019: 无法解析的外部符号 glfwTerminate，函数 "public: __cdecl RenderImage::RenderImgWnd::~RenderImgWnd(void)" (??1RenderImgWnd@RenderImage@@QEAA@XZ) 中引用了该符号
+源.obj : error LNK2019: 无法解析的外部符号 glfwCreateWindow，函数 "public: __cdecl RenderImage::RenderImgWnd::RenderImgWnd(int,int,char const *)" (??0RenderImgWnd@RenderImage@@QEAA@HHPEBD@Z) 中引用了该符号
+源.obj : error LNK2019: 无法解析的外部符号 glfwDestroyWindow，函数 "public: __cdecl RenderImage::RenderImgWnd::~RenderImgWnd(void)" (??1RenderImgWnd@RenderImage@@QEAA@XZ) 中引用了该符号
+源.obj : error LNK2019: 无法解析的外部符号 glfwWindowShouldClose，函数 "public: __cdecl RenderImage::RenderImgWnd::operator bool(void)" (??BRenderImgWnd@RenderImage@@QEAA_NXZ) 中引用了该符号
+源.obj : error LNK2019: 无法解析的外部符号 glfwSetWindowShouldClose，函数 "public: void __cdecl RenderImage::RenderImgWnd::CloseWnd(void)" (?CloseWnd@RenderImgWnd@RenderImage@@QEAAXXZ) 中引用了该符号
+源.obj : error LNK2019: 无法解析的外部符号 glfwGetWindowSize，函数 "public: __cdecl RenderImage::RenderImgWnd::operator bool(void)" (??BRenderImgWnd@RenderImage@@QEAA_NXZ) 中引用了该符号
+源.obj : error LNK2019: 无法解析的外部符号 glfwGetFramebufferSize，函数 "public: __cdecl RenderImage::RenderImgWnd::operator bool(void)" (??BRenderImgWnd@RenderImage@@QEAA_NXZ) 中引用了该符号
+源.obj : error LNK2019: 无法解析的外部符号 glfwSetWindowUserPointer，函数 "public: __cdecl RenderImage::RenderImgWnd::RenderImgWnd(int,int,char const *)" (??0RenderImgWnd@RenderImage@@QEAA@HHPEBD@Z) 中引用了该符号
+源.obj : error LNK2019: 无法解析的外部符号 glfwGetWindowUserPointer，函数 "public: void __cdecl <lambda_2f289264e0894e423b3bbb64365f68f6>::operator()(struct GLFWwindow *,double,double)const " (??R<lambda_2f289264e0894e423b3bbb64365f68f6>@@QEBAXPEAUGLFWwindow@@NN@Z) 中引用了该符号
+源.obj : error LNK2019: 无法解析的外部符号 glfwPollEvents，函数 "public: __cdecl RenderImage::RenderImgWnd::operator bool(void)" (??BRenderImgWnd@RenderImage@@QEAA_NXZ) 中引用了该符号
+源.obj : error LNK2019: 无法解析的外部符号 glfwSetKeyCallback，函数 "public: __cdecl RenderImage::RenderImgWnd::RenderImgWnd(int,int,char const *)" (??0RenderImgWnd@RenderImage@@QEAA@HHPEBD@Z) 中引用了该符号
+源.obj : error LNK2019: 无法解析的外部符号 glfwSetMouseButtonCallback，函数 "public: __cdecl RenderImage::RenderImgWnd::RenderImgWnd(int,int,char const *)" (??0RenderImgWnd@RenderImage@@QEAA@HHPEBD@Z) 中引用了该符号
+源.obj : error LNK2019: 无法解析的外部符号 glfwSetCursorPosCallback，函数 "public: __cdecl RenderImage::RenderImgWnd::RenderImgWnd(int,int,char const *)" (??0RenderImgWnd@RenderImage@@QEAA@HHPEBD@Z) 中引用了该符号
+源.obj : error LNK2019: 无法解析的外部符号 glfwSetScrollCallback，函数 "public: __cdecl RenderImage::RenderImgWnd::RenderImgWnd(int,int,char const *)" (??0RenderImgWnd@RenderImage@@QEAA@HHPEBD@Z) 中引用了该符号
+源.obj : error LNK2019: 无法解析的外部符号 glfwMakeContextCurrent，函数 "public: __cdecl RenderImage::RenderImgWnd::RenderImgWnd(int,int,char const *)" (??0RenderImgWnd@RenderImage@@QEAA@HHPEBD@Z) 中引用了该符号
+源.obj : error LNK2019: 无法解析的外部符号 glfwSwapBuffers，函数 "public: __cdecl RenderImage::RenderImgWnd::operator bool(void)" (??BRenderImgWnd@RenderImage@@QEAA_NXZ) 中引用了该符号
+C:\Users\zhangshuna\source\repos\Project2\x64\Debug\Project2.exe : fatal error LNK1120: 58 个无法解析的外部命令
